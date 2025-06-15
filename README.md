@@ -1,5 +1,5 @@
-# Assignment---SE
-
+# Assignment---SE 
+Group Number 35
 **Project Name : No Poverty** 
 A Software Solution to Support Poverty Alleviation
 
@@ -59,4 +59,33 @@ Follows Agile Software Development Lifecycle (SDLC)
 - A working prototype that empowers users in poverty to access schemes, jobs, and learning resources
 - Improved digital inclusion and awareness
 - Framework to scale or integrate with government systems
+
+--------------------------------------------------------------------------------------------------------------------
+
+**Group Member Details**
+
+**Tony Mathew** - 2023lm70199@wilp.bits-pilani.ac.in - 2023lm70199
+
+**Vinithaa J** - 2023lm70198@wilp.bits-pilani.ac.in - 2023lm70198
+
+**Ramya C** - 2023lm70197@wilp.bits-pilani.ac.in - 2023lm70197
+
+**Shital Kumbhar** - 2023lm70195@wilp.bits-pilani.ac.in - 2023lm70195 
+
+**Vadla Vishwaroopa** - 2023lm70196@wilp.bits-pilani.ac.in - 2023lm70196
+
+--------------------------------------------------------------------------------------------------------------------
+
+**Roles and Responsibilities**
+
+**Requirement gathering (User Researcher)** - Tony Mathew, Vinithaa J, Shital Kumbhar	
+
+**Design and Analyst (Technical Analyst)** - Tony Mathew, Ramya C, Vadla Vishwaroopa
+
+**Development (Programmer)** - Vinithaa J, Tony Mathew, Vadla Vishwaroopa
+
+**Testing and Quality (Tester)** - Vinithaa J, Shital Kumbhar, Ramya C
+
+**Project and Scrum management (PM)**- Tony Mathew, Vinithaa J
+
 
